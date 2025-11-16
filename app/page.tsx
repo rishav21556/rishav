@@ -207,7 +207,7 @@ export default function Portfolio() {
               View My Work
             </Button>
             <Link
-              href="https://drive.google.com/file/d/1bRbrjP0jzX5lsZOSmT_ZieT2UnxJAcnZ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1P0--40HXVg_32M9mK59vPGIk0iYxpwjY/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-11 px-8 bg-transparent border border-white text-white hover:bg-white hover:text-black transform hover:scale-105 transition-all duration-300 cursor-pointer"
@@ -271,7 +271,7 @@ export default function Portfolio() {
 
               <div className="grid grid-cols-2 gap-4 pt-6">
                 <div className="text-center p-4 bg-white/5 rounded-lg backdrop-blur-sm">
-                  <div className="text-3xl font-bold text-gray-300">4</div>
+                  <div className="text-3xl font-bold text-gray-300">7</div>
                   <div className="text-gray-400">months Experience</div>
                 </div>
               </div>
@@ -459,17 +459,6 @@ export default function Portfolio() {
               </Card>
             </Link>
           </div>
-
-          <Button
-            size="lg"
-            className="bg-gradient-to-r from-gray-800 to-black hover:from-gray-700 hover:to-gray-900 transform hover:scale-105 transition-all duration-300 text-white cursor-pointer"
-            asChild
-          >
-            <Link href="mailto:social.rishav.2003@gmail.com">
-              <Mail className="mr-2 h-4 w-4" />
-              Get In Touch
-            </Link>
-          </Button>
         </div>
       </section>
 
